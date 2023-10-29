@@ -16,7 +16,7 @@ ensure bulgar_Discord_Queue
 
 ### Other
 
-Many things have been deleted, fixed, changed compared to the original script. The script is still (WiP) I hope that together we will finally create a cool and, above all, free queue. For RedM and FiveM.
+Many things have been deleted, fixed, changed compared to the original script. The script is still (WiP) I hope that together we will finally create a cool and, above all, free queue for RedM and FiveM.
 
 ### Credits
 
