@@ -13,6 +13,7 @@ ensure bulgar_Discord_Queue
 - Rejoin Queue -> The player, after leaving the queue, has +-15 seconds to return to his position (Stil WiP, its not perfect right now).
 - Discord Whitelist -> The player must have the appropriate rank on discord to join, this also applies to priority settings.
 - Steam Join Requirement -> In this version, steam is required for the queue to work.
+- Anti-Spam before Join the Queue.
 
 ### Other
 
