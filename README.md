@@ -1,9 +1,8 @@
 ### Install
 
-All you need to do is upload both scripts to the server then configure the configs, the original configuration/instruction can be found [here](https://docs.badger.store/fivem-discord-scripts/bad-discordqueue), it is not much changed just there may be missing some options or there are more of them.
+All you need to do is upload the script to the server then configure the config, the original configuration/instruction can be found [here](https://docs.badger.store/fivem-discord-scripts/bad-discordqueue), it is not much changed just there may be missing some options or there are more of them.
 
 ```
-ensure bulgar_Discord_API
 ensure bulgar_Discord_Queue
 ```
 ### Features
